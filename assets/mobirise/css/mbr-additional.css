@@ -8723,7 +8723,7 @@ body {
     transition-property: opacity,padding,height;
   }
   .cid-rsSY1FTv58 .dropdown.open > .dropdown-menu {
-    position: relative;
+    position: relative!important;
     opacity: 1;
     height: auto;
     padding: 1.4rem 0;
@@ -8758,6 +8758,7 @@ body {
     height: 100%;
     overflow-y: scroll;
     overflow-x: hidden;
+    position: relative;
   }
   .cid-rsSY1FTv58 .navbar-toggleable-sm {
     width: 100%!important;
